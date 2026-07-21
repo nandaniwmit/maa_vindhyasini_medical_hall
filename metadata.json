@@ -1,0 +1,6 @@
+{
+  "name": "Maa Vindhyavasini Medical Hall",
+  "description": "Your Trusted Medical Store in Delha, Gaya, Bihar for genuine medicines, health supplements, baby care, surgical products, and easy WhatsApp prescription ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
